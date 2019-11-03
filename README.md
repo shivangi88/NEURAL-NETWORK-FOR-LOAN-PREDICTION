@@ -1,2 +1,5 @@
-# NEURAL-NETWORK-FOR-LOAN-PREDICTION
-Developed a multilayer perceptron neural network to predict loan acceptance or rejection and visualize features contributing to the prediction.
+# Neural Netwrok For Loan Prediction
+Developed a multilayer perceptron neural network to predict loan status and visualize features contributing to the prediction.
+
+# Technologies Used:
+Python, Tensorflow, SHAP, JavaScript
